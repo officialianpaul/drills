@@ -1,13 +1,10 @@
 <title>Welcome to CWC</title>
 <body background="wallpaper.jpg">
-<h1>Devlopers</h1>
+<center><h1>Devlopers</h1></center>
 <ol>
 
-<li><h4>Abhisek Ranjan    ___   Durgapur</h4></li><br />
-<li><h4>Rahul Bhagwati    ___   Assam</h4></li><br />
-<li><h4>SoumyaDeb Maity   ___   Durgapur</h4></li><br />
-<li><h4>Sachin Prajapati  ___   Joypur</h4></li><br />
-<li><h4>Dharambir Bharti  ___   Bihar</h4></li><br />
+<center><h4>SoumyaDeb Maity   ___ (Analyst,Designer,Devloper,Tester)<br />  Contact no - 8116105490 gmail - soumyamaity121@gmail.com  <br /> NIT Durgapur, Dept of CSE</h4></li><br /> </center>
+ 
 </ol>
 
 </body>
